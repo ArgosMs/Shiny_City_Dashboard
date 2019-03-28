@@ -21,7 +21,7 @@ sidebar <- dashboardSidebar(
     br(),
     p("Sketched by me to you"), 
     p("Together we have", 
-         a(href = "www", "code"), "-fun!")
+         a(href = "https://github.com/ArgosMs/Shiny_City_Dashboard/blob/master/Shiny_Dashboard.R", "code"), "-fun!")
     ))
 
 body <- dashboardBody(
